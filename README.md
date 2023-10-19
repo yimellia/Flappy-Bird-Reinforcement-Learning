@@ -5,7 +5,7 @@ Reinforcement Learning Project for Autonomous Flappy Bird Gameplay
 
 ## Dependencies
 
-Install **pygame 1.9.6** package 
+Install **pygame 1.9.6** package
 Install **python 3.7**
 
 ---
